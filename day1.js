@@ -9,12 +9,12 @@
 5.sorting
 6.merging*/
 
-operation of ds
+// operation of ds
 
-1. array
-2.stack.\
-3.queue
-4.tree
-5.graph
+// 1. array
+// 2.stack.\
+// 3.queue
+// 4.tree
+// 5.graph
 
 
