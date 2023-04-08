@@ -1,0 +1,7 @@
+//1 line of code currying - means cocecept one function inside abother function & pass individual argument, multiple argument pass it 
+// function in currying
+//getSum(5)(4)(3)(2)(1)// how to solve this problem  using currying
+const getSum=(a)=>(b)=>(c)=>(d)=>(e)=> a+b+c+d+e;
+        
+        const total =getSum(5)(4)(3)(2)(1)
+        console.log(total)
